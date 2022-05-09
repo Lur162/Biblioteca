@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="repositories.SocioRepository"/>
+    <fullyQualifiedTypeName name="uicardlayout.PanelAlta"/>
+    <fullyQualifiedTypeName name="uicardlayout.PanelBaja"/>
+    <fullyQualifiedTypeName name="java.awt.LayoutManager"/>
+    <fullyQualifiedTypeName name="java.awt.CardLayout"/>
 </qualifiedTypeNameHistroy>
