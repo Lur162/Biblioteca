@@ -2,6 +2,10 @@
 <section name="Workbench">
 	<item key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel" value="0"/>
 	<item key="GitSelectRepositoryPage.lastRepository" value="C:\Users\Lur\git\Biblioteca\.git"/>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="file://C:\Users\Lur\Documents\GitHub\PrimeraGit"/>
+		<item value="file://C:\Users\Lur\Documents\GitHub\ReservaVuelosV3"/>
+	</list>
 	<section name="GitImportWizard">
 		<item key="GitProjectsImportPage.STORE_NESTED_PROJECTS" value="true"/>
 	</section>
